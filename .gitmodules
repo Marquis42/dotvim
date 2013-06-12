@@ -1,3 +1,6 @@
 [submodule "bundle/sensible"]
 	path = bundle/sensible
 	url = https://github.com/tpope/vim-sensible.git
+[submodule "bundle/golang"]
+	path = bundle/golang
+	url = https://github.com/jnwhiteh/vim-golang.git
