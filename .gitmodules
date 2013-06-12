@@ -4,3 +4,6 @@
 [submodule "bundle/golang"]
 	path = bundle/golang
 	url = https://github.com/jnwhiteh/vim-golang.git
+[submodule "bundle/endwise"]
+	path = bundle/endwise
+	url = https://github.com/tpope/vim-endwise.git
