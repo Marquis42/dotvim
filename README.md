@@ -1,7 +1,6 @@
 Installation:
 
-	git clone git://github.com/Marquis42/dotvim.git
+	git clone git://github.com/Marquis42/dotvim.git ~/.vim
 
 Create symlinks:
-
-	ln -s ~/dotfiles/vimrc ~/.vimrc
+	run ~/.vim setup.sh
